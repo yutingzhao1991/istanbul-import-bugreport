@@ -1,0 +1,21 @@
+{
+  "name": "istanbul-import-bugreport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "babel-plugin-import": "^1.10.0",
+    "babel-plugin-istanbul": "^5.1.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
