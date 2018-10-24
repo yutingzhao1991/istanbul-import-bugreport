@@ -1,4 +1,4 @@
-For report bug https://github.com/gotwarlost/istanbul/issues/717
+For report bug https://github.com/istanbuljs/babel-plugin-istanbul/issues/161
 
 ```js
 // source code
